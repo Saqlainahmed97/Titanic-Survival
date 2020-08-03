@@ -1,2 +1,3 @@
-# Titanic project
-This file contains kaggle titanic dataset prediction . It was coded using R language and accuracy upto 78 % was found.
+# Data science portfolio
+Following portfolio contains different data science projects implemented in two languages mainly: R and Python.
+
